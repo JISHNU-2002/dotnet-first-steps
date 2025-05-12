@@ -1,0 +1,15 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.sourcelink.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/bin/Debug/net8.0/Delegate
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/bin/Debug/net8.0/Delegate.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/bin/Debug/net8.0/Delegate.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/bin/Debug/net8.0/Delegate.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/bin/Debug/net8.0/Delegate.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/refint/Delegate.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/Delegate.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Delegate/obj/Debug/net8.0/ref/Delegate.dll

@@ -89,11 +89,6 @@
 - Unit Testing (xUnit)
 - Blazor (for full-stack C# apps)
 ---
-## 🧭 **Stage 1: Programming Fundamentals (C# Language)**
-- Asynchronous programming (async/await)
-- Delegates, Events, Lambdas
----
-
 ## 🧭 **Stage 2: .NET Basics**
 * .NET Framework vs .NET Core vs .NET 5/6/7/8
 * Common Language Runtime (CLR)
@@ -103,15 +98,22 @@
 * Creating Console Apps using .NET SDK
 * Using Visual Studio / VS Code
 
-### 📚 Resources:
+## **3. .NET Fundamentals**
+Understand the **.NET ecosystem**:
+- **.NET Runtime (CLR)**
+- **.NET SDK & CLI Tools**
+- **NuGet Package Manager**
+- **Dependency Injection**
+- **Logging (Serilog, NLog)**
+- **Unit Testing (xUnit, NUnit, Moq)**
+## 3. .NET Framework and .NET Core/.NET 5+
 
-* [.NET Official Documentation](https://learn.microsoft.com/en-us/dotnet/)
-* [What is .NET? - Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/fundamentals/)
-* [DotNET YouTube Channel](https://www.youtube.com/c/dotNET)
-
+**Understanding .NET:**
+- .NET ecosystem overview
+- CLR (Common Language Runtime)
+- Framework vs Core vs Modern .NET (5/6/7/8)
+- BCL (Base Class Library)
 ---
-
-## 🧭 **Stage 3: Desktop or Web? Choose Your Path**
 
 ### 🧭 **Stage 4: ASP.NET Core Web Development (Backend)**
 * ASP.NET Core Overview
@@ -126,14 +128,6 @@
 * LINQ with EF Core
 * Authentication & Authorization (JWT, Identity)
 * API Versioning
-
-### 📚 Resources:
-
-* [ASP.NET Core Docs](https://learn.microsoft.com/en-us/aspnet/core/)
-* [FreeCodeCamp ASP.NET Core API Tutorial](https://www.youtube.com/watch?v=fmvcAzHpsk8)
-* Book: **Pro ASP.NET Core 6** by Adam Freeman
-
----
 
 ## 🧭 **Stage 5: Front-End Basics**
 
@@ -218,22 +212,6 @@ Even though you're backend-focused, basic front-end skills help in full-stack ro
 
 
 # Claude# .NET Developer Roadmap
-
-I'd be happy to provide you with a comprehensive roadmap for becoming a .NET developer. This will cover the essential skills, technologies, and resources to help you build a solid foundation and progress in your career.
-
-
-## 3. .NET Framework and .NET Core/.NET 5+
-
-**Understanding .NET:**
-- .NET ecosystem overview
-- CLR (Common Language Runtime)
-- Framework vs Core vs Modern .NET (5/6/7/8)
-- BCL (Base Class Library)
-
-**Resources:**
-- [.NET Documentation](https://learn.microsoft.com/en-us/dotnet/)
-- [.NET Fundamentals](https://www.pluralsight.com/courses/dotnet-fundamentals) (Pluralsight)
-- [.NET for Beginners](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 
 ## 4. Web Development with ASP.NET
 
@@ -418,23 +396,6 @@ I'd be happy to provide you with a comprehensive roadmap for becoming a .NET dev
 - [.NET Core Samples](https://github.com/dotnet/samples)
 - Personal projects that solve real problems
 ---
-
-## **3. .NET Fundamentals**
-Understand the **.NET ecosystem**:
-- **.NET Runtime (CLR)**
-- **.NET SDK & CLI Tools**
-- **NuGet Package Manager**
-- **Dependency Injection**
-- **Logging (Serilog, NLog)**
-- **Unit Testing (xUnit, NUnit, Moq)**
-
-### **Resources:**
-- [Microsoft .NET Documentation](https://learn.microsoft.com/en-us/dotnet/)
-- [Dependency Injection in .NET (Book)](https://www.manning.com/books/dependency-injection-in-dot-net)
-- [Unit Testing with xUnit (YouTube)](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
-
----
-
 ## **4. ASP.NET Core (Web Development)**
 Learn backend development with **ASP.NET Core**:
 - **MVC & Razor Pages**

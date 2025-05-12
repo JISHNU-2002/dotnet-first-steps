@@ -44,7 +44,7 @@
 - [x] Read/write files using `StreamReader` and `StreamWriter`
 ---
 ## Week 4: Delegates & Async
-- [ ] Delegates/Anonymous Methods
+- [x] Delegates/Anonymous Methods
 - [ ] Events
 - [ ] `Action`, `Func`, and `Predicate`
 - [ ] Lambda Expressions
@@ -102,6 +102,88 @@ cd HelloWorld
 dotnet run
 ```
 
+##  **Types & Type System** 
+- A **type** defines the kind of data a variable can hold and the operations that can be performed on that data
+- C# is a **strongly typed language**, meaning every variable and expression has a type known at compile time
+### .NET Type System Overview
+- The .NET type system is **unified**, meaning all types derive from a single base type
+- So, whether you're working with `int`, `string`, or a custom class, everything is ultimately an `object`
+
+```csharp
+System.Object
+```
+
+## Types in .NET
+### 1. Value Types (`struct`)
+* Stored **directly in memory** (stack)
+* Contain actual data
+
+  ```csharp
+  int, float, bool, char, DateTime, struct
+  ```
+### 2. Reference Types (`class`, `interface`, `delegate`, `array`)
+* Stored in **heap**, and variables store a **reference** (pointer) to the memory location
+
+  ```csharp
+  string, object, arrays, class, interface
+  ```
+### 3. Pointer Types (unsafe context only)
+* Used in **unsafe code**
+
+  ```csharp
+  unsafe {
+      int* ptr = &age;
+  }
+  ```
+###  4. Custom Types
+
+```csharp
+class, struct, enum, interface, delegate
+```
+### 5. Dynamic Typing 
+
+```csharp
+dynamic x = 10;
+x = "Now I'm a string!";
+```
+
+### Type System Concepts
+- **Static Typing** : The type of every variable is known at **compile-time**
+- **Strong Typing** : C# enforces **strict type rules** - e.g., you can’t assign a `string` to an `int` without explicit conversion
+- **Boxing and Unboxing** : Used to convert between **value types** and **reference types**
+
+```csharp
+int num = 10;
+object boxed = num;           // Boxing
+int unboxed = (int)boxed;     // Unboxing
+```
+
+- **Type Inference** : C# allows `var` for type inference at compile-time
+
+```csharp
+var count = 100;  // inferred as int
+```
+
+- **Nullable Types** : Value types can be made nullable using `?`
+
+```csharp
+int? age = null;
+```
+
+### Type Checking and Casting
+- `is` Operator checks type at runtime
+```csharp
+if (obj is string) { ... }
+```
+-  `as` Operator for safe casting
+```csharp
+string s = obj as string;
+```
+- Explicit Casting
+```csharp
+double d = 9.8;
+int i = (int)d;
+```
 
 ### Datatypes
 - In C#, the `var` keyword allows you to declare a local variable without explicitly specifying its type
@@ -117,7 +199,8 @@ dotnet run
 | `Decimal`         | 128          | ±79,228,162,514,264,337,593,543,950,335 | `Convert.ToDecimal()` |
 | `String`          | 16/character | N/A                                     | `Convert.ToString()`  |
 | `char`            | 16           |                                         |                       |
-| `float`           | 32           |                                         |                       |
+| `float`           | 32           | `System.Single`                         |                       |
+| `object`          |              | `System.Object`                         |                       |
 
 #### CONST & ENUM
 - A `const` is a variable whose **value is fixed at compile time** and **cannot be changed** during the program execution
@@ -1203,3 +1286,154 @@ var groupedQ = from item in collection
 **ToLookup**
 - `ToLookup` is like `GroupBy`, but it **immediately executes** and returns a **lookup (like a dictionary)** where a key maps to a group of elements
 - Unlike `GroupBy`, `ToLookup` returns an object of type `ILookup<TKey, TElement>`, and **does not support query syntax** - only **method syntax** is available
+
+# Delegates
+- In .NET (C#), **delegates** are **type-safe function pointers**
+- They allow methods to be passed as parameters, stored, and called dynamically at runtime
+- A **delegate** is a reference type that defines a method signature, and it can hold references to methods that match this signature
+- **Delegates** : Can call methods directly
+- **Events** : Use delegates internally but offer restricted access to subscribers (safer, used for publish-subscribe patterns)
+
+### Multicast Delegates
+ - A delegate can reference **multiple methods** (chaining)
+- Return values are only from the last method
+- When a **delegate** has **multiple methods** attached (i.e., it's **multicast**), and it returns a value, **only the return value of the last method in the invocation list is returned**, But **all methods** in the list **do get executed**, in order
+- If you're using a return type, **only the last one’s result** is returned unless you use `GetInvocationList()`
+
+#### Helper Method
+- **Abstract multicast delegate handling** into a **reusable helper method** that
+	- Accepts a delegate of type `Calculate`
+	- Invokes each method in the multicast delegate using `GetInvocationList()`
+	- Returns the results as a list
+	
+```c#
+using System.Collections.Generic;
+
+public delegate int Calculate(int x);
+
+class MultiCast{
+   public static int methodA(int x){
+        Console.WriteLine("MethodA initial value: "+ x);
+        return x+1;
+    }
+    public static int methodB(int x){
+        Console.WriteLine("MethodB initial value: "+ x);
+        return x+2;
+    }
+}
+
+class Program {
+    static void Main() {
+        Calculate obj4 = MultiCast.methodA;
+        obj4 += MultiCast.methodB;
+
+        Console.WriteLine("Results from multicast Calculate:");
+        List<int> results = InvokeAll(obj4, 5);
+
+        for (int i = 0; i < results.Count; i++)
+        {
+            Console.WriteLine($"Return from method {i + 1}: {results[i]}");
+        }
+    }
+
+    static List<int> InvokeAll(Calculate del, int value)
+    {
+        List<int> results = new List<int>();
+        foreach (Delegate d in del.GetInvocationList())
+        {
+            int result = ((Calculate)d)(value);
+            results.Add(result);
+        }
+        return results;
+    }
+}
+
+```
+## Built-in Delegates in .NET
+| Delegate Type      | Parameters | Return Type | Signature eg                                        |
+| ------------------ | ---------- | ----------- | --------------------------------------------------- |
+| `Action`           | 0 or more  | `void`      | `Action<int>` == `void Method(int x)`               |
+| `Func<TResult>`    | 0          | `TResult`   |                                                     |
+| `Func<T, TResult>` | 1          | `TResult`   | `Func<int, int, int>` == `int Method(int a, int b)` |
+| `Predicate<T>`     | 1 (`T`)    | `bool`      | `Predicate<string>` == `bool Method(string s)`      |
+
+### 1. **Action** – for `void` methods
+
+```csharp
+Action<string> greet = name => Console.WriteLine("Hello " + name);
+greet("Alice");  // Output: Hello Alice
+```
+### 2. **Func** – for methods that return a value
+* `Func<int, int, int>` → takes two `int` parameters, returns an `int`
+
+```csharp
+Func<int, int, int> add = (a, b) => a + b;
+int sum = add(3, 4);
+Console.WriteLine(sum);  // Output: 7
+```
+### 3. **Predicate** – for `bool` return type (usually used for conditions)
+
+```csharp
+Predicate<int> isEven = x => x % 2 == 0;
+Console.WriteLine(isEven(4));  // Output: True
+Console.WriteLine(isEven(5));  // Output: False
+```
+## When to Use Built-in Delegates
+* They are highly used in LINQ and functional programming patterns
+* Instead of writing
+  ```csharp
+  public delegate int Operation(int a, int b);
+  ```
+
+  ```csharp
+  Func<int, int, int> operation = (a, b) => a + b;
+  ```
+
+## **Covariance** (Return type flexibility)
+- Covariance allows a method that returns a **more derived type** to be assigned to a delegate expecting a **base return type**
+- `Dog` is an `Animal`, so a delegate returning `Dog` can be used where `Animal` is expected
+
+```C#
+// Base and derived classes
+class Animal { }
+class Dog : Animal { }
+
+// Delegate returns Animal
+public delegate Animal AnimalHandler();
+
+class Program {
+    public static Dog GetDog() {
+        Console.WriteLine("Returning Dog");
+        return new Dog();
+    }
+
+    static void Main() {
+        AnimalHandler handler = GetDog; // Covariance: Dog → Animal
+        Animal a = handler();
+    }
+}
+```
+
+## **Contravariance** (Parameter type flexibility)
+- Contravariance allows a method that takes a **less derived parameter** to be assigned to a delegate expecting a **more derived one**
+- Since `HandleAnimal` accepts any `Animal`, it can also accept a `Dog`
+
+```C#
+// Base and derived classes
+class Animal { }
+class Dog : Animal { }
+
+// Delegate takes Dog
+public delegate void DogHandler(Dog d);
+
+class Program {
+    public static void HandleAnimal(Animal a) {
+        Console.WriteLine("Handling Animal");
+    }
+
+    static void Main() {
+        DogHandler handler = HandleAnimal; // Contravariance: Animal ← Dog
+        handler(new Dog());
+    }
+}
+```
