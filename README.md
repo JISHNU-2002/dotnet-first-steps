@@ -90,7 +90,6 @@
 - Blazor (for full-stack C# apps)
 ---
 ## 🧭 **Stage 1: Programming Fundamentals (C# Language)**
-- Types and type system
 - Asynchronous programming (async/await)
 - Delegates, Events, Lambdas
 ---
