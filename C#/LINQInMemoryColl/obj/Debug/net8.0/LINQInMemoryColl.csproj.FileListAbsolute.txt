@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/bin/Debug/net8.0/LINQInMemoryColl
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/bin/Debug/net8.0/LINQInMemoryColl.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/bin/Debug/net8.0/LINQInMemoryColl.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/bin/Debug/net8.0/LINQInMemoryColl.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/bin/Debug/net8.0/LINQInMemoryColl.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/refint/LINQInMemoryColl.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/LINQInMemoryColl.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQInMemoryColl/obj/Debug/net8.0/ref/LINQInMemoryColl.dll

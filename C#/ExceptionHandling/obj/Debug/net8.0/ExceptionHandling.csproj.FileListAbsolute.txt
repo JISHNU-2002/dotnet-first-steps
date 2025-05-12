@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/refint/ExceptionHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/ExceptionHandling/obj/Debug/net8.0/ref/ExceptionHandling.dll

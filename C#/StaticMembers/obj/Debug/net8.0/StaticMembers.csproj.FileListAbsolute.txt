@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/bin/Debug/net8.0/StaticMembers
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/bin/Debug/net8.0/StaticMembers.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/bin/Debug/net8.0/StaticMembers.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/bin/Debug/net8.0/StaticMembers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/bin/Debug/net8.0/StaticMembers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/refint/StaticMembers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/StaticMembers.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/StaticMembers/obj/Debug/net8.0/ref/StaticMembers.dll

@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/bin/Debug/net8.0/MethodOverride
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/bin/Debug/net8.0/MethodOverride.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/bin/Debug/net8.0/MethodOverride.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/bin/Debug/net8.0/MethodOverride.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/bin/Debug/net8.0/MethodOverride.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/refint/MethodOverride.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/MethodOverride.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MethodOverride/obj/Debug/net8.0/ref/MethodOverride.dll

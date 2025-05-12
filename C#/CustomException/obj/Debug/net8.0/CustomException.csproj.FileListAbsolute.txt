@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/bin/Debug/net8.0/CustomException
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/bin/Debug/net8.0/CustomException.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/bin/Debug/net8.0/CustomException.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/bin/Debug/net8.0/CustomException.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/bin/Debug/net8.0/CustomException.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/refint/CustomException.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/CustomException.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/CustomException/obj/Debug/net8.0/ref/CustomException.dll

@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/bin/Debug/net8.0/ConcurrentDict
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/bin/Debug/net8.0/ConcurrentDict.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/bin/Debug/net8.0/ConcurrentDict.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/bin/Debug/net8.0/ConcurrentDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/bin/Debug/net8.0/ConcurrentDict.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/refint/ConcurrentDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ConcurrentDict.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentDict/obj/Debug/net8.0/ref/ConcurrentDict.dll

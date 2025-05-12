@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/bin/Debug/net8.0/BaseKeyword
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/bin/Debug/net8.0/BaseKeyword.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/bin/Debug/net8.0/BaseKeyword.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/bin/Debug/net8.0/BaseKeyword.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/bin/Debug/net8.0/BaseKeyword.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/refint/BaseKeyword.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/BaseKeyword.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/BaseKeyword/obj/Debug/net8.0/ref/BaseKeyword.dll

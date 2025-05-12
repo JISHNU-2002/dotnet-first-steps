@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/bin/Debug/net8.0/Polymorphism
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll

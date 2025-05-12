@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/bin/Debug/net8.0/Numbers
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/bin/Debug/net8.0/Numbers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/bin/Debug/net8.0/Numbers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Numbers/obj/Debug/net8.0/ref/Numbers.dll

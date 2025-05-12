@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/bin/Debug/net8.0/Inheritance
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

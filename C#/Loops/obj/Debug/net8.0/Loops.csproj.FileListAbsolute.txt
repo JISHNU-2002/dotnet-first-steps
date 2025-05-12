@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/bin/Debug/net8.0/Loops
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/bin/Debug/net8.0/Loops.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/bin/Debug/net8.0/Loops.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/bin/Debug/net8.0/Loops.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/bin/Debug/net8.0/Loops.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/refint/Loops.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/Loops.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Loops/obj/Debug/net8.0/ref/Loops.dll

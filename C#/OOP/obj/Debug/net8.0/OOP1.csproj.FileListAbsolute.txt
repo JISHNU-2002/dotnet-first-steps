@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/bin/Debug/net8.0/OOP1
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/bin/Debug/net8.0/OOP1.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/bin/Debug/net8.0/OOP1.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/bin/Debug/net8.0/OOP1.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/bin/Debug/net8.0/OOP1.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/refint/OOP1.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/OOP1.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/OOP1/obj/Debug/net8.0/ref/OOP1.dll

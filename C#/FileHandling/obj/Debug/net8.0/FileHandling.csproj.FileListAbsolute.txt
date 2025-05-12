@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/bin/Debug/net8.0/FileHandling
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/bin/Debug/net8.0/FileHandling.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/bin/Debug/net8.0/FileHandling.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/bin/Debug/net8.0/FileHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/bin/Debug/net8.0/FileHandling.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/refint/FileHandling.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/FileHandling.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/FileHandling/obj/Debug/net8.0/ref/FileHandling.dll

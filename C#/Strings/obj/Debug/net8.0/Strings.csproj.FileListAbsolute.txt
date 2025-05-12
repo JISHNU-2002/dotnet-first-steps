@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/bin/Debug/net8.0/Strings
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/bin/Debug/net8.0/Strings.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/bin/Debug/net8.0/Strings.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/bin/Debug/net8.0/Strings.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/refint/Strings.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Strings/obj/Debug/net8.0/ref/Strings.dll

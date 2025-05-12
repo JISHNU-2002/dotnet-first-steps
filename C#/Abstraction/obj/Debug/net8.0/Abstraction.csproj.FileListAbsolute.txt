@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/bin/Debug/net8.0/Abstraction
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/bin/Debug/net8.0/Abstraction.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/bin/Debug/net8.0/Abstraction.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/bin/Debug/net8.0/Abstraction.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/bin/Debug/net8.0/Abstraction.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/refint/Abstraction.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/Abstraction.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Abstraction/obj/Debug/net8.0/ref/Abstraction.dll

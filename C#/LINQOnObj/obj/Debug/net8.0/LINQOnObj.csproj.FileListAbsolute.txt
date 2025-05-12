@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/bin/Debug/net8.0/LINQOnObj
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/bin/Debug/net8.0/LINQOnObj.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/bin/Debug/net8.0/LINQOnObj.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/bin/Debug/net8.0/LINQOnObj.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/bin/Debug/net8.0/LINQOnObj.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/refint/LINQOnObj.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/LINQOnObj.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQOnObj/obj/Debug/net8.0/ref/LINQOnObj.dll

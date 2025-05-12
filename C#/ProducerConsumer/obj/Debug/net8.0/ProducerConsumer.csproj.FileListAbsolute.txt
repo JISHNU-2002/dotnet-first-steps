@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/bin/Debug/net8.0/ProducerConsumer
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/bin/Debug/net8.0/ProducerConsumer.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/bin/Debug/net8.0/ProducerConsumer.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/bin/Debug/net8.0/ProducerConsumer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/bin/Debug/net8.0/ProducerConsumer.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/refint/ProducerConsumer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ProducerConsumer.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ProducerConsumer/obj/Debug/net8.0/ref/ProducerConsumer.dll

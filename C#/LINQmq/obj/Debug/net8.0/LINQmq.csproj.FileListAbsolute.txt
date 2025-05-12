@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/bin/Debug/net8.0/LINQmq
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/bin/Debug/net8.0/LINQmq.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/bin/Debug/net8.0/LINQmq.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/bin/Debug/net8.0/LINQmq.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/bin/Debug/net8.0/LINQmq.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/refint/LINQmq.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/LINQmq.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/LINQmq/obj/Debug/net8.0/ref/LINQmq.dll

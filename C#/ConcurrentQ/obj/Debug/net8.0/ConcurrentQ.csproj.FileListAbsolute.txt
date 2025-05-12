@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/bin/Debug/net8.0/ConcurrentQ
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/bin/Debug/net8.0/ConcurrentQ.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/bin/Debug/net8.0/ConcurrentQ.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/bin/Debug/net8.0/ConcurrentQ.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/bin/Debug/net8.0/ConcurrentQ.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/refint/ConcurrentQ.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ConcurrentQ.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ConcurrentQ/obj/Debug/net8.0/ref/ConcurrentQ.dll

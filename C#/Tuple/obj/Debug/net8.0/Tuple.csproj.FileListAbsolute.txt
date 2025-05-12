@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/bin/Debug/net8.0/Tuple
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/bin/Debug/net8.0/Tuple.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/bin/Debug/net8.0/Tuple.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/bin/Debug/net8.0/Tuple.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/bin/Debug/net8.0/Tuple.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/refint/Tuple.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/Tuple.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/C#/Tuple/obj/Debug/net8.0/ref/Tuple.dll

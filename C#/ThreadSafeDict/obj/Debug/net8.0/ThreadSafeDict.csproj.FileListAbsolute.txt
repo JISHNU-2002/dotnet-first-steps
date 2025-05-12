@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/bin/Debug/net8.0/ThreadSafeDict
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/bin/Debug/net8.0/ThreadSafeDict.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/bin/Debug/net8.0/ThreadSafeDict.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/bin/Debug/net8.0/ThreadSafeDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/bin/Debug/net8.0/ThreadSafeDict.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/refint/ThreadSafeDict.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ThreadSafeDict.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ThreadSafeDict/obj/Debug/net8.0/ref/ThreadSafeDict.dll

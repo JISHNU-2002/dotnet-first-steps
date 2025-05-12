@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/bin/Debug/net8.0/Indexer
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/bin/Debug/net8.0/Indexer.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/bin/Debug/net8.0/Indexer.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/bin/Debug/net8.0/Indexer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/bin/Debug/net8.0/Indexer.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/refint/Indexer.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/Indexer.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/Indexer/obj/Debug/net8.0/ref/Indexer.dll

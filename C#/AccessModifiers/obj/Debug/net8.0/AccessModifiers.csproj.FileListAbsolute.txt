@@ -1,0 +1,14 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/bin/Debug/net8.0/AccessModifiers
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/bin/Debug/net8.0/AccessModifiers.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/bin/Debug/net8.0/AccessModifiers.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/bin/Debug/net8.0/AccessModifiers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/bin/Debug/net8.0/AccessModifiers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/refint/AccessModifiers.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/AccessModifiers.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/AccessModifiers/obj/Debug/net8.0/ref/AccessModifiers.dll
