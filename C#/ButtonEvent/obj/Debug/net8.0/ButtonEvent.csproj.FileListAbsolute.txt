@@ -1,0 +1,15 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.sourcelink.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/bin/Debug/net8.0/ButtonEvent
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/bin/Debug/net8.0/ButtonEvent.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/bin/Debug/net8.0/ButtonEvent.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/bin/Debug/net8.0/ButtonEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/bin/Debug/net8.0/ButtonEvent.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/refint/ButtonEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ButtonEvent.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/ButtonEvent/obj/Debug/net8.0/ref/ButtonEvent.dll

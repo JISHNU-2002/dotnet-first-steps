@@ -1,0 +1,15 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/bin/Debug/net8.0/MultipleEvents
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/bin/Debug/net8.0/MultipleEvents.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/bin/Debug/net8.0/MultipleEvents.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/bin/Debug/net8.0/MultipleEvents.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/bin/Debug/net8.0/MultipleEvents.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.sourcelink.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/refint/MultipleEvents.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/MultipleEvents.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/MultipleEvents/obj/Debug/net8.0/ref/MultipleEvents.dll

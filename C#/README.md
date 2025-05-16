@@ -45,7 +45,7 @@
 ---
 ## Week 4: Delegates & Async
 - [x] Delegates/Anonymous Methods
-- [ ] Events
+- [x] Events
 - [ ] `Action`, `Func`, and `Predicate`
 - [ ] Lambda Expressions
 - [ ] Anonymous Methods
@@ -1437,3 +1437,12 @@ class Program {
     }
 }
 ```
+
+# Events
+- **events** are a way for a class to provide notifications to clients of that class when something of interest occurs
+- They are based on **delegates**, which define the signature of the method that can respond to the event
+
+- **Delegate**: Defines the signature for the event handler
+- **Event**: Encapsulates the delegate and controls access to it
+- **Publisher**: The class that declares the event
+- **Subscriber**: The class that handles the event

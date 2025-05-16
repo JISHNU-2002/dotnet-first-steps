@@ -140,13 +140,6 @@ Even though you're backend-focused, basic front-end skills help in full-stack ro
 * JavaScript DOM Manipulation
 * Fetch/AJAX API for calling backend
 * Optional: Learn a frontend framework like React.js or Angular
-
-### 📚 Resources:
-
-* [Frontend Web Dev - FreeCodeCamp](https://www.freecodecamp.org/learn)
-* [HTML & CSS Crash Course – Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
-* [JavaScript Crash Course – Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-
 ---
 
 ## 🧭 **Stage 6: Database Management**

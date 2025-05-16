@@ -1,0 +1,15 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/bin/Debug/net8.0/EventHandler
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/bin/Debug/net8.0/EventHandler.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/bin/Debug/net8.0/EventHandler.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/bin/Debug/net8.0/EventHandler.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/bin/Debug/net8.0/EventHandler.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.sourcelink.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/refint/EventHandler.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/EventHandler.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/EventHandler/obj/Debug/net8.0/ref/EventHandler.dll
