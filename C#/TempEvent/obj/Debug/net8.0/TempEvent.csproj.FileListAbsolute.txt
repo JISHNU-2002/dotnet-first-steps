@@ -1,0 +1,15 @@
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.AssemblyInfoInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.AssemblyInfo.cs
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.csproj.CoreCompileInputs.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.sourcelink.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/bin/Debug/net8.0/TempEvent
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/bin/Debug/net8.0/TempEvent.deps.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/bin/Debug/net8.0/TempEvent.runtimeconfig.json
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/bin/Debug/net8.0/TempEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/bin/Debug/net8.0/TempEvent.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/refint/TempEvent.dll
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.pdb
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/TempEvent.genruntimeconfig.cache
+/home/deadpool/Documents/Obsidian Vault/Unity Infotech/dotnet/C#/TempEvent/obj/Debug/net8.0/ref/TempEvent.dll
