@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Department>
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<div>
+    <h1>Department List</h1>
+    <table class="table table-bordered table-stripped">
+        <thead>
+            <tr>Department ID</tr>
+            <tr>Department Name</tr>
+            <tr>Head Of Department</tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.DepId</td>
+                    <td>@item.DepName</td>
+                    <td>@item.HOD</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

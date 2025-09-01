@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp5
+{
+    internal partial class Customer
+    {
+        public void display()
+        {
+            Console.WriteLine($"Customer id: {id} | Customer Name: {name}");
+        }
+    }
+}
